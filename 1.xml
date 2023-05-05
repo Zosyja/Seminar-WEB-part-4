@@ -5,7 +5,7 @@
     	<surname>Иванов</surname>
     	<patronymic>Иванович</patronymic>
     	<age>30</age>
+        <birthplace>Москва</birthplace>
     	<phone>+7 926 766 48 48</phone>
-    	<birthplace>Москва</birthplace>
 	</user>
 </users>
